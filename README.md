@@ -18,4 +18,4 @@ After receiving the assignment, modify the code in the Jupyter Notebook and comm
 
 ## Lab Teaching Staff
 * Instructor: Wouter Schakel
-* Teaching Assistants: Mingze Gong
+* Teaching Assistants: Mingze  Gong
